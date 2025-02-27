@@ -7,7 +7,7 @@ This repository provides a comprehensive analysis of two datasets using **Multip
 ### **MLR Analysis**  
 - **EDA:**  
   - Descriptive statistics, correlation matrices, and scatter plots.  
-  - Conversion of categorical variable `x3` to numeric.  
+  - Conversion of categorical variable `x3` to numeric.   
 - **Model Development:**  
   - `lm()` for regression modeling.  
   - Stepwise exclusion of insignificant predictors (e.g., `x3`).  
